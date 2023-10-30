@@ -193,9 +193,9 @@ export default class LoadCtrl extends GViewBase {
         const str = bundles[keys[this.loadNum]];
         cc.assetManager.loadBundle(str, (err: Error, boule: cc.AssetManager.Bundle) => {
             if (err) {
-                cc.error("分包加载失败:" + str);
+                cc.error("Subpackage loading failed:" + str);
             } else {
-                cc.log("分包加载成功:" + str)
+                cc.log("Subpackage loaded successfully:" + str)
             }
             this.loadNum++;
             this.setLoadProgress(this.loadNum / keys.length);
