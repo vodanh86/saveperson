@@ -1,0 +1,69 @@
+
+bingkuai.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 400, 97
+  size: 127, 90
+  orig: 130, 92
+  offset: 2, 1
+  index: -1
+2
+  rotate: true
+  xy: 258, 221
+  size: 101, 110
+  orig: 103, 112
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 370, 226
+  size: 96, 57
+  orig: 98, 59
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 424, 336
+  size: 156, 116
+  orig: 159, 118
+  offset: 2, 1
+  index: -1
+5
+  rotate: true
+  xy: 88, 35
+  size: 179, 150
+  orig: 181, 152
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 2, 4
+  size: 84, 210
+  orig: 86, 212
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 258, 324
+  size: 164, 168
+  orig: 166, 170
+  offset: 1, 1
+  index: -1
+bk
+  rotate: true
+  xy: 2, 216
+  size: 276, 254
+  orig: 278, 256
+  offset: 1, 1
+  index: -1
+w
+  rotate: false
+  xy: 240, 40
+  size: 158, 174
+  orig: 161, 176
+  offset: 1, 1
+  index: -1

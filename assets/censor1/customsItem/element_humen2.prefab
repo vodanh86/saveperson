@@ -1,0 +1,308 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "element_humen2",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      }
+    ],
+    "_prefab": {
+      "__id__": 5
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 101,
+      "height": 194.8
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        460.882,
+        -144.157,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.RigidBody",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_type": 2,
+    "_allowSleep": true,
+    "_gravityScale": 1,
+    "_linearDamping": 0,
+    "_angularDamping": 0,
+    "_linearVelocity": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_angularVelocity": 0,
+    "_fixedRotation": false,
+    "enabledContactListener": true,
+    "bullet": false,
+    "awakeOnLoad": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PhysicsPolygonCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 0,
+    "_density": 1,
+    "_sensor": false,
+    "_friction": 0.2,
+    "_restitution": 0,
+    "body": null,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": -1,
+      "y": 99
+    },
+    "points": [
+      {
+        "__type__": "cc.Vec2",
+        "x": -11.4,
+        "y": -81.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -22.8,
+        "y": -87.3
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -19.5,
+        "y": -96.8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -5.2,
+        "y": -97.3
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 17.7,
+        "y": -98.8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 30.5,
+        "y": -98.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 29.7,
+        "y": -93.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 19.9,
+        "y": -83.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 14.2,
+        "y": -29.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 9.9,
+        "y": 29.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 25.6,
+        "y": 5.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 56.9,
+        "y": 34.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 48.4,
+        "y": 38.5
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 22.7,
+        "y": 13.5
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 11.7,
+        "y": 40.8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 23.9,
+        "y": 59
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -1.4,
+        "y": 83.8
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -24.2,
+        "y": 66
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -8.3,
+        "y": 36.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -34.2,
+        "y": 12.6
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -55.2,
+        "y": 43
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -58.4,
+        "y": 40.6
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -37.8,
+        "y": 4.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -7.1,
+        "y": 30.9
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -14.4,
+        "y": -28.6
+      }
+    ],
+    "_id": ""
+  },
+  {
+    "__type__": "sp.Skeleton",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "7afd064b-113f-480e-b793-8817d19f63c3"
+      }
+    ],
+    "paused": false,
+    "defaultSkin": "default",
+    "defaultAnimation": "cry",
+    "_preCacheMode": 0,
+    "_cacheMode": 0,
+    "loop": true,
+    "premultipliedAlpha": false,
+    "timeScale": 1,
+    "_accTime": 0,
+    "_playCount": 0,
+    "_frameCache": null,
+    "_curFrame": null,
+    "_skeletonCache": null,
+    "_animationName": "cry",
+    "_animationQueue": [],
+    "_headAniInfo": null,
+    "_playTimes": 0,
+    "_isAniComplete": true,
+    "_N$skeletonData": {
+      "__uuid__": "010e70a6-5f61-4a6f-be37-768b770a8e44"
+    },
+    "_N$_defaultCacheMode": 0,
+    "_N$debugSlots": false,
+    "_N$debugBones": false,
+    "_N$debugMesh": false,
+    "_N$useTint": false,
+    "_N$enableBatch": false,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "215a1041-090a-4863-9318-b5af2be8da40"
+    },
+    "fileId": "",
+    "sync": false
+  }
+]

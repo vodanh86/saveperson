@@ -1,0 +1,76 @@
+
+weieyu.png
+size: 512, 64
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bd
+  rotate: false
+  xy: 368, 8
+  size: 105, 56
+  orig: 105, 56
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 84, 30
+  size: 24, 23
+  orig: 27, 26
+  offset: 1, 1
+  index: -1
+js
+  rotate: false
+  xy: 124, 43
+  size: 13, 10
+  orig: 15, 12
+  offset: 1, 1
+  index: -1
+jx
+  rotate: false
+  xy: 70, 7
+  size: 11, 13
+  orig: 13, 15
+  offset: 1, 1
+  index: -1
+m
+  rotate: false
+  xy: 54, 7
+  size: 14, 13
+  orig: 17, 15
+  offset: 2, 1
+  index: -1
+s
+  rotate: false
+  xy: 54, 22
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+ts
+  rotate: false
+  xy: 475, 12
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+tx
+  rotate: false
+  xy: 2, 4
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: true
+  xy: 2, 55
+  size: 9, 364
+  orig: 10, 364
+  offset: 1, 0
+  index: -1
+z
+  rotate: false
+  xy: 110, 39
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

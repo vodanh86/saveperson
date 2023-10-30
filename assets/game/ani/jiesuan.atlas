@@ -1,0 +1,48 @@
+
+jiesuan.png
+size: 2048, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 4
+  size: 14, 28
+  orig: 16, 30
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 2, 151
+  size: 772, 772
+  orig: 796, 796
+  offset: 12, 12
+  index: -1
+k
+  rotate: false
+  xy: 776, 19
+  size: 603, 368
+  orig: 605, 370
+  offset: 1, 1
+  index: -1
+x
+  rotate: false
+  xy: 2, 34
+  size: 46, 46
+  orig: 52, 52
+  offset: 3, 3
+  index: -1
+z
+  rotate: false
+  xy: 776, 389
+  size: 480, 534
+  orig: 516, 580
+  offset: 19, 24
+  index: -1
+脑洞大开！
+  rotate: false
+  xy: 2, 82
+  size: 299, 67
+  orig: 301, 69
+  offset: 1, 1
+  index: -1

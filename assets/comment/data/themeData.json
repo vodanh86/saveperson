@@ -1,0 +1,1 @@
+{"_des":"表注释：游戏主题表","_name":"themeData","_version":"2022/4/8","data":[{"id":1,"type":1,"img":"btn_save","isNew":0,"text":"画线解救"},{"id":2,"type":2,"img":"btn_riddle","isNew":0,"text":"画线解谜"},{"id":3,"type":3,"img":"btn_meet","isNew":1,"text":"画线相遇"},{"id":4,"type":0,"img":"btn_move","isNew":0,"text":"更多主题"}]}

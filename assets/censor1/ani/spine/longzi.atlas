@@ -1,0 +1,125 @@
+
+longzi.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+111/Stage13 TunnelOpen_1
+  rotate: false
+  xy: 264, 4
+  size: 281, 257
+  orig: 436, 352
+  offset: 82, 28
+  index: -1
+111/Stage13 TunnelOpen_10
+  rotate: true
+  xy: 305, 531
+  size: 181, 259
+  orig: 436, 352
+  offset: 131, 75
+  index: -1
+111/Stage13 TunnelOpen_2
+  rotate: true
+  xy: 571, 413
+  size: 286, 259
+  orig: 436, 352
+  offset: 79, 32
+  index: -1
+111/Stage13 TunnelOpen_3
+  rotate: false
+  xy: 571, 153
+  size: 291, 258
+  orig: 436, 352
+  offset: 77, 38
+  index: -1
+111/Stage13 TunnelOpen_4
+  rotate: true
+  xy: 2, 150
+  size: 295, 260
+  orig: 436, 352
+  offset: 75, 42
+  index: -1
+111/Stage13 TunnelOpen_5
+  rotate: false
+  xy: 573, 753
+  size: 299, 259
+  orig: 436, 352
+  offset: 73, 48
+  index: -1
+111/Stage13 TunnelOpen_6
+  rotate: true
+  xy: 2, 447
+  size: 301, 262
+  orig: 436, 352
+  offset: 72, 52
+  index: -1
+111/Stage13 TunnelOpen_7
+  rotate: false
+  xy: 266, 263
+  size: 303, 261
+  orig: 436, 352
+  offset: 71, 58
+  index: -1
+111/Stage13 TunnelOpen_8
+  rotate: false
+  xy: 2, 750
+  size: 304, 262
+  orig: 436, 352
+  offset: 70, 63
+  index: -1
+111/Stage13 TunnelOpen_9
+  rotate: true
+  xy: 308, 714
+  size: 298, 263
+  orig: 436, 352
+  offset: 73, 68
+  index: -1
+1d
+  rotate: true
+  xy: 573, 741
+  size: 10, 210
+  orig: 12, 212
+  offset: 1, 1
+  index: -1
+2d
+  rotate: true
+  xy: 573, 741
+  size: 10, 210
+  orig: 12, 212
+  offset: 1, 1
+  index: -1
+3d
+  rotate: true
+  xy: 573, 741
+  size: 10, 210
+  orig: 12, 212
+  offset: 1, 1
+  index: -1
+4d
+  rotate: true
+  xy: 573, 741
+  size: 10, 210
+  orig: 12, 212
+  offset: 1, 1
+  index: -1
+h
+  rotate: false
+  xy: 566, 701
+  size: 198, 11
+  orig: 200, 13
+  offset: 1, 1
+  index: -1
+s
+  rotate: true
+  xy: 266, 526
+  size: 222, 22
+  orig: 224, 24
+  offset: 1, 1
+  index: -1
+x
+  rotate: true
+  xy: 290, 526
+  size: 222, 13
+  orig: 224, 15
+  offset: 1, 1
+  index: -1

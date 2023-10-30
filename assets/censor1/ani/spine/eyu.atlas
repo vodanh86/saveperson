@@ -1,0 +1,27 @@
+
+eyu.png
+size: 256, 128
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1
+  rotate: true
+  xy: 153, 90
+  size: 19, 16
+  orig: 21, 18
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 153, 74
+  size: 6, 14
+  orig: 8, 16
+  offset: 1, 1
+  index: -1
+bd
+  rotate: true
+  xy: 2, 4
+  size: 105, 149
+  orig: 105, 149
+  offset: 0, 0
+  index: -1

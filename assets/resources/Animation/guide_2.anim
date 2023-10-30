@@ -1,0 +1,161 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guide_2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5333333333333333,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            252.7,
+            2.3
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            242.2,
+            -0.9
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": [
+            233.7,
+            -8.4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.1,
+          "value": [
+            228.2,
+            -20.2
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": [
+            228,
+            -35
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": [
+            235,
+            -46.7
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.2,
+          "value": [
+            247.2,
+            -55.1
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": [
+            258.7,
+            -58.5
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.26666666666666666,
+          "value": [
+            271.5,
+            -57.9
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.3,
+          "value": [
+            280.8,
+            -51.4
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.31666666666666665,
+          "value": [
+            286.03950000011247,
+            -44.96289999986183,
+            0
+          ]
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": [
+            287.8,
+            -42.8
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": [
+            292.8,
+            -34.7
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            295.6,
+            -23.5
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.43333333333333335,
+          "value": [
+            290.9,
+            -10.6
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.4666666666666667,
+          "value": [
+            283.9,
+            -2.1
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            270,
+            1.9
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 0.5333333333333333,
+          "value": [
+            253.2,
+            2.3
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": []
+}

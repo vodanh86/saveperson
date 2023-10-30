@@ -1,0 +1,56 @@
+{
+	"_des": "表注释：画线解谜关卡表",
+	"_name": "lineMeet",
+	"_version": "2022/4/12",
+	"data": [{
+		"id": 1,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -53.599],
+		"conclusion": "谢谢你！"
+	}, {
+		"id": 2,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -53.599],
+		"conclusion": "做的漂亮！"
+	}, {
+		"id": 3,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -80.899],
+		"conclusion": "基操勿6！"
+	}, {
+		"id": 4,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -15],
+		"conclusion": "线画的好！"
+	}, {
+		"id": 5,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -15],
+		"conclusion": "月亮翻船了！"
+	}, {
+		"id": 6,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -26.3],
+		"conclusion": "王母很生气！"
+	}, {
+		"id": 7,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, 0],
+		"conclusion": "差点掉下去！"
+	}, {
+		"id": 8,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, 0],
+		"conclusion": "你是我的眼！"
+	}, {
+		"id": 9,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, -53],
+		"conclusion": "牛郎很开心！"
+	}, {
+		"id": 10,
+		"tip": "画线让牛郎织女相遇！",
+		"tipPositon": [0, 0],
+		"conclusion": "织女吓坏了！"
+	}]
+}

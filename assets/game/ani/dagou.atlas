@@ -1,0 +1,62 @@
+
+dagou.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+g1
+  rotate: true
+  xy: 1113, 26
+  size: 103, 96
+  orig: 239, 201
+  offset: 2, 36
+  index: -1
+g2
+  rotate: true
+  xy: 980, 72
+  size: 167, 131
+  orig: 239, 201
+  offset: 2, 1
+  index: -1
+g3
+  rotate: true
+  xy: 828, 39
+  size: 200, 150
+  orig: 239, 201
+  offset: 2, 1
+  index: -1
+g4
+  rotate: true
+  xy: 2, 4
+  size: 235, 198
+  orig: 239, 201
+  offset: 2, 1
+  index: -1
+x1
+  rotate: true
+  xy: 1113, 131
+  size: 108, 107
+  orig: 219, 221
+  offset: 8, 107
+  index: -1
+x2
+  rotate: true
+  xy: 620, 32
+  size: 207, 206
+  orig: 219, 221
+  offset: 8, 8
+  index: -1
+x3
+  rotate: false
+  xy: 202, 32
+  size: 207, 207
+  orig: 219, 221
+  offset: 8, 8
+  index: -1
+x4
+  rotate: false
+  xy: 411, 32
+  size: 207, 207
+  orig: 219, 221
+  offset: 8, 8
+  index: -1
